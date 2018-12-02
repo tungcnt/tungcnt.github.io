@@ -4,8 +4,7 @@ i{
 a, a:hover, a:visited, a:active, a:link{
 	color: black !important;
 }
-a:click
-.slick-initialized .slick-slide div:first-child div div{
+.slick-initialized .slick-slide div div:first-child div{
 	font-weight: normal !important;
 	max-height: 100% !important;
 }
